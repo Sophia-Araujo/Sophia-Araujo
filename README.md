@@ -1,4 +1,6 @@
-### Hi there 👋
+### Sou aluna na Etec Fernando Prestes - Extensão Fatec e estou me formando em Desenvolvimento de Sistemas no período da tarde.
+Desejo ter minha primeira experiência profissional na área de tecnologia e programação, quero trabalhar com Front-end e Back-end para desenvolver os conhecimentos adquiridos em minha formação técnica escolar. Tenho a intenção de obter experiências novas e aprendizado estagiando na área.
+Email:sophiaaraujoanjos22@gmail.com
 
 <!--
 **Sophia-Araujo/Sophia-Araujo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
