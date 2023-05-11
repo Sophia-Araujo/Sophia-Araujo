@@ -10,7 +10,7 @@ Desejo ter minha primeira experiência profissional na área de tecnologia e pro
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Sophia-JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="Sophia-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/cplusplus.svg"/>
+  <img align="center" alt="Sophia-C#" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg"/>
   <img align="center" alt="Sophia-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />       
   <img align="center" alt="Sophia-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Sophia-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" />
