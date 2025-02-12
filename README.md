@@ -1,6 +1,5 @@
-<h2>Olá sou a Sophia sou desenvolvedora júnior.</h2>
-Sou aluna na instituição Etec Fernando Prestes - Extensão Fatec e estou me formando em Desenvolvimento de Sistemas no período da tarde.
-Desejo ter minha primeira experiência profissional na área de tecnologia e programação, quero trabalhar com Front-end e Back-end para desenvolver os conhecimentos adquiridos em minha formação técnica escolar. Tenho a intenção de obter experiências novas e aprendizado estagiando na área.
+<h2>Olá sou a Sophia sou Analista e desenvolvedora de Sistemas.</h2>
+Tenho experiência na área de desenvolvimento de sistemas, onde já participei da criação de diversos sites e projetos. Apesar disso, minha verdadeira paixão está na área de Help Desk. Adoro ajudar pessoas, resolver problemas e oferecer suporte para facilitar o uso da tecnologia no dia a dia. Além disso, tenho facilidade em coordenar projetos e me destaco por ser uma pessoa comunicativa, sempre buscando manter um ambiente colaborativo e produtivo.
 
 <div align="center">
   <a href="https://github.com/Sophia-Araujo">
